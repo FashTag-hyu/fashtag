@@ -1,0 +1,6 @@
+man sf
+man summer
+man winter
+woman sf
+woman summer
+woman winter

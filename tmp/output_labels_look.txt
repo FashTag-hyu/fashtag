@@ -1,0 +1,6 @@
+man date
+man office
+man sports
+woman date
+woman office
+woman sports
